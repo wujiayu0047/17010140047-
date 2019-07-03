@@ -1,4 +1,4 @@
-# 7.3work
+# 7.3work 17010140047 吴佳玉
 #define _time 1000
 int led = 8;
 char x;
