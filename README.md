@@ -1,10 +1,13 @@
-开源硬件实战作业
-17010140047吴佳玉
+#开源硬件实战作业
+##17010140047吴佳玉
 
-Morse.h及Morse.cpp、Morse_led、keyword均为7.3号作业（由于建立文件夹 时间有更改 7.3日上传文件仍在）
+7.3homework文件夹中包含7月3日课后作业：与Morse相关所有文件（Morse.h、Morse.cpp、Morse_led.ino、keyword.txt）
 
-sizzling为7.4号课堂小车实验（由于建立文件夹 7.4class work中有相关代码文件和电路截图文件 因建立文件夹时间有更改）
 
-smashing为7.4号课后数码管实验（7.4homework中有相关代码文件和电路截图文件）
+7.4class work文件夹中包含7月4日课堂练习：与car有关所有文件（7.4class work.ino、7.4class work模拟电路截图）
 
-7.5morse电路截图及代码
+
+7.4homework文件夹中包含7月4日课后作业：与7段数码管有关所有文件（7.4homework.ino、7.4homework模拟电路截图）
+
+
+7.5morse文件夹中包含7月5日课堂要求（7.5morse模拟电路截图以及7.5morse.ino、总结）
