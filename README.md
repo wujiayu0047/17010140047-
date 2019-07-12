@@ -10,4 +10,7 @@
 7.4homework文件夹中包含7月4日课后作业：与7段数码管有关所有文件（7.4homework.ino、7.4homework模拟电路截图）
 
 
-7.5morse文件夹中包含7月5日课堂要求（7.5morse模拟电路截图以及7.5morse.ino、总结）
+7.5morse文件夹中包含7月5日课堂要求（7.5morse模拟电路截图以及7.5morse.ino、总结word、pdf、markdown）
+ 
+
+final文件夹中包含学校要求总结版本（word、pdf）
